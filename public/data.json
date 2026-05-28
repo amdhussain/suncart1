@@ -7,7 +7,7 @@
     "rating": 4.7,
     "stock": 15,
     "description": "Premium UV400 protection sunglasses with polarized lenses.",
-    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80",
     "category": "Accessories"
   },
   {
@@ -18,7 +18,7 @@
     "rating": 4.5,
     "stock": 25,
     "description": "Broad-spectrum SPF 50 sunscreen with aloe vera extract.",
-    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&q=80",
     "category": "Skincare"
   },
   {
@@ -29,7 +29,7 @@
     "rating": 4.6,
     "stock": 20,
     "description": "Lightweight floral midi dress in breathable cotton fabric.",
-    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&q=80",
     "category": "Clothing"
   },
   {
@@ -40,7 +40,7 @@
     "rating": 4.8,
     "stock": 10,
     "description": "Handwoven natural straw hat with a wide brim.",
-    "image": "https://images.unsplash.com/photo-1524024973431-2ad9167462d8?w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1524024973431-2ad9167462d8?w=600&q=80",
     "category": "Accessories"
   },
   {
@@ -51,7 +51,7 @@
     "rating": 4.3,
     "stock": 18,
     "description": "Ergonomic cushioned sandals with arch support.",
-    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=600&q=80",
     "category": "Footwear"
   },
   {
@@ -62,7 +62,7 @@
     "rating": 4.4,
     "stock": 30,
     "description": "Spacious canvas tote bag with waterproof lining.",
-    "image": "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=600&q=80",
     "category": "Accessories"
   }
 ]

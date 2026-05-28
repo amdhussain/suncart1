@@ -311,6 +311,7 @@ const Navbar = () => {
         <ul className="hidden lg:flex items-center gap-6 font-semibold text-sm">
           <li><Link href="/" className="hover:text-orange-500 transition-colors">Home</Link></li>
           <li><Link href="/products" className="hover:text-orange-500 transition-colors">Products</Link></li>
+          <li><Link href="/products" className="hover:text-orange-500 transition-colors">My Profile</Link></li>
         </ul>
 
         <div className="flex items-center gap-3">
